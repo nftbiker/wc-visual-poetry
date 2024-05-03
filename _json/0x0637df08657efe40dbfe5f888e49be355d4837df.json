@@ -1,0 +1,23 @@
+{
+  "id": "0x0637df08657efe40dbfe5f888e49be355d4837df",
+  "timestamp": 1714663774000,
+  "author": {
+    "username": "markwebster",
+    "displayname": "Mark Webster",
+    "fid": 317009,
+    "avatar": "https://verse-mainnet.s3.amazonaws.com/0.png",
+    "description": "Artist\nmwebster.online"
+  },
+  "text": "computation | computational",
+  "images": [
+    "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/45ef8b1d-a7d7-4b40-47ad-f47e754f4200/original"
+  ],
+  "recast_by": {
+    "username": "noisycoyote",
+    "displayname": "NOiSY COYOTE",
+    "fid": 483586,
+    "avatar": "https://i.imgur.com/1bPSOHG.jpg",
+    "description": "Tranquilo typewriter artist -\nnoisycoyote.space"
+  },
+  "recast_hash": "0x6658d4eaeeb4ba82740cf762d799a112a41ab0ef"
+}

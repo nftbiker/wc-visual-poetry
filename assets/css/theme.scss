@@ -2,7 +2,7 @@
 ---
 
 $brown: #b59f62;
-$teal: #40ffdc;
+$teal: #ee3149;
 $black: #111;
 $primary: $teal;
 $dark: $black;
@@ -28,7 +28,7 @@ body {
   background: #f4f4f4;
 }
 a {
-  color: darken($primary, 24%);
+  color: #ee3149 darken($primary, 24%);
 }
 img {
   max-width: 100%;
@@ -358,6 +358,7 @@ img:hover {
     cursor: pointer;
     &:hover {
       background: $primary;
+      color: #fff;
       text-decoration: none;
     }
   }

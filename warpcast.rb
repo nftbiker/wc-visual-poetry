@@ -11,7 +11,7 @@ require "active_support/all"
 require "json"
 
 # change this to backup another channel
-CHANNEL_ID = ENV["CHANNEL_ID"] || "the-library"
+CHANNEL_ID = ENV["CHANNEL_ID"] || "visual-poetry"
 
 # no need to change anything below
 JSON_PATH = "./_json"

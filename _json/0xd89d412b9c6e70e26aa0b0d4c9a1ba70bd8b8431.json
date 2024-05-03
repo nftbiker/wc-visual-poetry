@@ -1,0 +1,15 @@
+{
+  "id": "0xd89d412b9c6e70e26aa0b0d4c9a1ba70bd8b8431",
+  "timestamp": 1712889518000,
+  "author": {
+    "username": "kflemmer",
+    "displayname": "KF | Wild MissingNos.",
+    "fid": 415689,
+    "avatar": "https://i.imgur.com/w55GDl9.jpg",
+    "description": "Kyle Flemmer | writer, publisher, digital media artist | http://objkt.com/profile/kflemmer"
+  },
+  "text": "from \"versetices,\" a series of /genart visual sonnets prepared for Doc(k)s, an international review of poetry mixing different mediums. \"versetices\" derives from a Python program i wrote to generate visual poems of a variable number of lines within a predefined space. this poem has 14 lines and is thus a visual sonnet.",
+  "images": [
+    "https://i.imgur.com/3oqem8Z.gif"
+  ]
+}

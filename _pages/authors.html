@@ -5,7 +5,7 @@ permalink: /casters
 ---
 
 <div class="list-authors mt-5">
-  <div class="entry-header">List all people that casted at least 2 books (with images) in the channel.</div>
+  <div class="entry-header">List all people that casted at least 2 entries (with images) in the channel.</div>
   {% assign sorted = site.authors | where_exp:"user", "user.posts_count > 1" | sort: 'posts_count' | reverse %} {% for author in sorted %}
   <div id="{{ author.username }}" class="authorbox position-relative pb-2 pt-2 border">
     <div class="row">
