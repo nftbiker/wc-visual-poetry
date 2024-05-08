@@ -1,0 +1,23 @@
+{
+  "id": "0xe232f9e2664ca0bd7ba470b9e7b049b220d1912e",
+  "timestamp": 1714921236000,
+  "author": {
+    "username": "tiller",
+    "displayname": "Tiller",
+    "fid": 336037,
+    "avatar": "https://i.imgur.com/SXdXekY.jpg",
+    "description": "Artist and collector. Maker and breaker of things."
+  },
+  "text": "A little more experimenting with using typewriter typefaces and typewriter genart style. Also an experiement in exploring human emotions, this this case, empathy.",
+  "images": [
+    "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/68730f43-28cb-4a6e-6bcc-5a3ae04de600/original"
+  ],
+  "recast_by": {
+    "username": "marc93",
+    "displayname": "Marc Maurer",
+    "fid": 440238,
+    "avatar": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/04997dc8-726e-4b71-003d-bd5d68424b00/rectcrop3",
+    "description": "Artist. Creating pictures with code and machines. \nIn search of math beauty"
+  },
+  "recast_hash": "0x0f73064e1ed7366821fc06d17e8d00a30a5b5972"
+}
