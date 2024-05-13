@@ -1,0 +1,10 @@
+---
+username: aempatia
+displayname: Aempatia
+fid: 473284
+profile: https://warpcast.com/aempatia
+avatar: https://i.imgur.com/8A1nOEi.jpg
+---
+Collage & visual poetry  
+She/ Her  
+https://linktr.ee/Aempatia  
