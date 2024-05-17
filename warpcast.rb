@@ -1,3 +1,6 @@
+#!/usr/bin/env ruby
+# encoding: utf-8
+
 require "bundler/inline"
 gemfile do
   source "https://rubygems.org"
@@ -81,7 +84,9 @@ class Warpcast
 
     if list.size >= 15
       from = list.last["timestamp"]
-      return call(options.merge(from: from)) if from / 1000 > upto
+      if from != options[:from] && from / 1000 > upto
+        return call(options.merge(from: from))
+      end
     end
     store_authors
   end
