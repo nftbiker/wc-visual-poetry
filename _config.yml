@@ -3,6 +3,7 @@ name: "Visual Poetry Backup"
 title: "Visual Poetry"
 description: >-
   This is a backup of all visual poetry posted (with an image) into <a href="https://warpcast.com/~/channel/visual-poetry" target="_blank">Visual Poetry</a> channel.
+tagline: Backup of visual poetry warpcast channel
 logo: "assets/visual.png"
 # favicon: 'assets/images/logo.png'
 baseurl: ""
