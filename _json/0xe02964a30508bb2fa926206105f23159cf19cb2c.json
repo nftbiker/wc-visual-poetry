@@ -1,0 +1,16 @@
+{
+  "id": "0xe02964a30508bb2fa926206105f23159cf19cb2c",
+  "timestamp": 1718610524000,
+  "author": {
+    "username": "paul-prudence",
+    "displayname": "Paul Prudence",
+    "fid": 307224,
+    "avatar": "https://i.imgur.com/1wOpavr.jpg",
+    "description": "Artist & Writer /the-library ✷ /geoblocks ✷ https://linktr.ee/paulprudence ✷ https://twitter.com/MrPrudence\n\n"
+  },
+  "text": "Lace Ciphers, 2022\n\nThe problem of long-repeat strings generating delicate encodings has been known to signal processing people for decades. USB use(d) NRZI/RLL-6 encoding which forces a change between knit and purl once per seven stitches. Most Ethernet today uses 'Manchester' coding, which encodes bits as *pairs* of signals, so for example 1 \\-> knit-purl, 0 \\-> purl-knit. If applied to knitting the structure from this encoding can get very wavy over short stretches.",
+  "images": [
+    "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d1479f5c-c462-4a08-ea36-a295d67f4a00/original",
+    "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fd7e4dc8-810f-48f6-11e7-8daaae89db00/original"
+  ]
+}
