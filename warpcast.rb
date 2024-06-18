@@ -52,7 +52,7 @@ class Warpcast
         # is it a recast?
         recasts = (cast["embeds"] || {})["casts"] || []
         unless recasts.blank?
-          other = recasts.detect { |e| !e["embeds"]["images"].blank? }
+          other = recasts.detect { |e| !e["embeds"].blank? && !e["embeds"]["images"].blank? }
           if other
             other["recast_by"] = get_profile_from(cast["author"])
             other["recast_hash"] = cast["hash"]
@@ -219,7 +219,7 @@ class Warpcast
       description: data["bio"],
     }
     res.stringify_keys!
-    res.delete_if { |k, v| v.blank? }
+    res.delete_if { |_, v| v.blank? }
     res
   end
 
@@ -228,7 +228,7 @@ class Warpcast
     Dir.glob("#{JSON_PATH}/*.json").each do |f|
       res = JSON.parse(File.read(f))
       author = res["author"]
-      author.delete_if { |k, v| v.blank? }
+      author.delete_if { |_, v| v.blank? }
       list[author["fid"].to_i] ||= {}
       list[author["fid"].to_i].merge!(author)
     end
