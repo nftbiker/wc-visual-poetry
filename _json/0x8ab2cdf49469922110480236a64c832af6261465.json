@@ -1,0 +1,23 @@
+{
+  "id": "0x8ab2cdf49469922110480236a64c832af6261465",
+  "timestamp": 1726847617000,
+  "author": {
+    "username": "nclslbrn",
+    "displayname": "Nicolas Lebrun",
+    "fid": 240558,
+    "avatar": "https://i.imgur.com/iivqBSJ.jpg",
+    "description": "Artist working mainly with code and sometimes by hand\n\nhttps://nicolas-lebrun.fr/contact/"
+  },
+  "text": "Introducing 𝘉𝘢𝘳𝘳𝘢𝘨𝘦 (/bəˈrɑʒ/ french for dam)\n\nThis radical experiment is inspired by François Morellet's research on frames and dashes, as well as more recent work in Visual Poetry. \n\nTuesday, October 1st on fxhash\n\nMore information coming soon",
+  "images": [
+    "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b9ac5a6e-93b0-4d0f-e18b-d8cfa1077800/original"
+  ],
+  "recast_by": {
+    "username": "vortac",
+    "displayname": "tim/vortac",
+    "fid": 209586,
+    "avatar": "https://i.imgur.com/TKcfxSt.png",
+    "description": "Hosting /the-library /deca /newmasters\n— Graphic designer / Creative technologist / solving problems with design and code / Generative Art and Design / Web3"
+  },
+  "recast_hash": "0x4f4c8c4728ef74a3e8592a3afe883bfbd465d832"
+}
