@@ -3,6 +3,7 @@ username: comz
 displayname: comz
 fid: 476959
 profile: https://warpcast.com/comz
-avatar: https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/185e2d00-86ee-48a2-c05d-523ab89b6500/rectcrop3
+avatar: https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3ef14417-193f-4912-1c28-a97c959a2e00/original
 ---
-A/V artist & creative coder • /gen-art /replyguys • Civilizations https://objkt.com/collections/KT1TDUDzFjdJuAWZjPNXK2w4uMBbGySoqCzH •  
+artist • philomath • developer • optimist •   
+/gen-art • /consciousness • /ink •  
