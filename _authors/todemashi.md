@@ -1,6 +1,6 @@
 ---
 username: todemashi
-displayname: Todemashi 🎩
+displayname: Todemashi
 fid: 248344
 profile: https://warpcast.com/todemashi
 avatar: https://i.imgur.com/avyAGsK.jpg
