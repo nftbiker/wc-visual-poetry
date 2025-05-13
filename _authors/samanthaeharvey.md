@@ -1,6 +1,6 @@
 ---
 username: samanthaeharvey
-displayname: Samantha E. Harvey [SEH]
+displayname: SEH
 fid: 456814
 profile: https://warpcast.com/samanthaeharvey
 avatar: https://i.imgur.com/z2P47DR.jpg
