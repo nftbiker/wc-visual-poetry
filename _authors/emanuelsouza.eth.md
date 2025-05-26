@@ -5,10 +5,9 @@ fid: 14190
 profile: https://farcaster.xyz/emanuelsouza.eth
 avatar: https://i.imgur.com/X37z86a.jpg
 ---
-
-Writer, Poet, Philosopher, Alchemist - Psychedelic Artist
-#NFT Collector - Crypto Enthusiast
-
-- First editions on #NFT -
-
-https://linktr.ee/emanuel_souza
+Writer, Poet, Philosopher, Alchemist - Psychedelic Artist  
+#NFT Collector - Crypto Enthusiast   
+  
+- First editions on #NFT -  
+  
+https://linktr.ee/emanuel_souza  

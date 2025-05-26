@@ -5,7 +5,6 @@ fid: 439541
 profile: https://farcaster.xyz/xkmare
 avatar: https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5a05caf4-6035-4126-e855-035418cf4e00/original
 ---
-
-ARTⓂ️NS ON #RAREPOWER...Dada.nyc
-•https://zora.co/@mare
-https://makersplace.com/mare etc , etc..
+ARTⓂ️NS ON #RAREPOWER...Dada.nyc  
+ •https://zora.co/@mare  
+https://makersplace.com/mare  etc , etc..  

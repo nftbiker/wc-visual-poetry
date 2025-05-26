@@ -5,5 +5,4 @@ fid: 248172
 profile: https://farcaster.xyz/crystalspaceshp
 avatar: https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a89ac87f-4872-4bb2-73b4-0cccc3279e00/rectcrop3
 ---
-
-artist. between galaxies. 🌈🌴🪐 linktr.ee/crystalspaceshp ✨ /crystalspaceshp ✨ /scifiart
+artist. between galaxies. 🌈🌴🪐 linktr.ee/crystalspaceshp ✨ /crystalspaceshp ✨ /scifiart  
