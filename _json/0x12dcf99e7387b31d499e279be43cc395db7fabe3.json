@@ -1,0 +1,17 @@
+{
+  "id": "0x12dcf99e7387b31d499e279be43cc395db7fabe3",
+  "timestamp": 1753552874000,
+  "author": {
+    "username": "stc",
+    "displayname": "agoston nagy",
+    "fid": 7048,
+    "avatar": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1f979976-752c-459c-aa9c-4b3fca701b00/original",
+    "description": "coding, algorithmic art, workshops\n\nentangled.tools"
+  },
+  "text": "./code --poetry // code-poetry.com/home\n\nA collection of sixteen code poems, each written in the source code of a different programming language. Every poem is also a valid program which produces a visual representation of itself when compiled and run.\n\nA project by Daniel Holden and Chris Kerr. \n\nReleased 31st March, 2023 // 76 pages // 978-1-915760-03-6 // RRP",
+  "images": [
+    "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c9d56566-c639-4b01-c2a7-38b5b5137500/original",
+    "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5e448482-f237-4bdd-1c00-80ca3b093500/original",
+    "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ee0f1575-bec9-4d39-d78b-c807b56cc500/original"
+  ]
+}
