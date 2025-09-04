@@ -1,8 +1,9 @@
 ---
 username: marcelonada
-displayname: Marcelo Terça-Nada
+displayname: Marcelo Terça-Nada 💎🎩✨
 fid: 330083
 profile: https://farcaster.xyz/marcelonada
 avatar: https://i.imgur.com/dZCteUV.jpg
 ---
-Brazilian artist and collector・ Portfolio, published books etc: linktr.ee/marcelonada ・ Poema will be released April 9th on FX: fxhash.xyz/u/marcelonada  
+Brazilian artist & collector. PhD candidate  
+・Portfolio, books, genart projects, tutorials, starter packs etc: https://linktr.ee/marcelonada  
