@@ -3,10 +3,6 @@ username: pixelsymphony
 displayname: Pixel Symphony
 fid: 232704
 profile: https://farcaster.xyz/pixelsymphony
-avatar: https://i.imgur.com/9rfO3oM.jpg
+avatar: https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f3b24f61-2f5c-4b34-ad85-44203f7e3f00/rectcrop3
 ---
-Generative Artist with a Master’s in History of Modern Art & Curatorial Studies. Building  
-AtelierArt.io. HUG 100 Artists to Watch.  
-  
-  
-Website: pixelsymphony.art  
+Algorithmic & Plotter Artist | Master’s in History of Modern Art & Curatorial Studies | Store: https://pixelsymphony.bigcartel.com/  
