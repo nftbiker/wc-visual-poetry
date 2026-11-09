@@ -4,7 +4,16 @@ A ruby script to download all entries from ["Visual Poetry" warpcast channel](ht
 
 # How to run
 
-in irb, to download all archives
+from the command line
+
+```
+ruby warpcast.rb             # last 2 days
+ruby warpcast.rb --days 30   # last 30 days
+ruby warpcast.rb --days all  # whole channel
+ruby warpcast.rb -d 30 -f    # last 30 days, rewrite existing files
+```
+
+or in irb, to download all archives
 
 ```
 require './warpcast.rb'

@@ -283,5 +283,24 @@ class Warpcast
 end
 
 if $0 == __FILE__
-  Warpcast.new.call
+  require "optparse"
+
+  options = {}
+  OptionParser.new do |opts|
+    opts.banner = "Usage: ruby warpcast.rb [options]"
+    opts.on("-d", "--days DAYS", "Number of days to fetch (default 2), or 'all' for the whole channel") do |v|
+      if v == "all"
+        options[:days] = :all
+      elsif v.match?(/\A\d+\z/) && v.to_i > 0
+        options[:days] = v.to_i
+      else
+        abort "Invalid --days value: #{v} (expected a positive integer or 'all')"
+      end
+    end
+    opts.on("-f", "--force", "Rewrite json/markdown files that already exist") do
+      options[:force] = true
+    end
+  end.parse!
+
+  Warpcast.new.call(options)
 end
