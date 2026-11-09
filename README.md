@@ -8,8 +8,11 @@ in irb, to download all archives
 
 ```
 require './warpcast.rb'
-data = Warpcast.new.call(days:100)
+data = Warpcast.new.call(days: :all)
 ```
+
+Casts are read from a public Snapchain node (Farcaster Hub HTTP API, no API key needed).
+Override it with `HUB_URL` in `.env` if that node goes down.
 
 to download last 2 days
 
